@@ -1,5 +1,5 @@
 
-#（Android ショッピングアプリモックアップ SHOP SAMPLE）
+# Android ショッピングアプリモックアップ SHOP SAMPLE）
  
 Androidstudioでお酒のショッピングサイトのモックアップをつくりました
 
